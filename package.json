@@ -1,0 +1,19 @@
+{
+  "name": "thonyverif",
+  "version": "1.0.0",
+  "description": "Discord Bot to manage the security of your server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "BOT",
+    "Security"
+  ],
+  "author": "Loïc MAES",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
