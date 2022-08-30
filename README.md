@@ -23,7 +23,6 @@ Follow this steps:
 2. Fill the pattern:
    1. `TOKEN`: Your application's token (available on the [Discord Developer Portal](https://www.discord.com/developers/applications/));
    2. `ROLE`: The ID of the role which you want to give to the user (more info on the [documentation](https://discord.js.org/#/docs/discord.js/main/class/Role));
-   3. `CHANNEL`: The ID of the channel in which you want to send your settlement and add the button (more info on the [documentation](https://discord.js.org/#/docs/discord.js/main/class/TextChannel));
 3. Save the file and see you to the next step.
 
 ## <a name="start"></a>How to start
